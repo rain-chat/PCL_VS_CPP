@@ -53,7 +53,11 @@ C:\Program Files\PCL 1.12.1\3rdParty\Boost\include
 C:\Program Files\PCL 1.12.1\3rdParty\FLANN\bin
 C:\Program Files\PCL 1.12.1\3rdParty\Qhull\bin
 ```
-根据自己安装PCL的目录作改变，上述地址实际上就是PCL的目录地址
+根据自己安装PCL的目录作改变，上述地址实际上就是PCL的目录地址，其他同理，直接找到对应目录复制以免错误。
+![image](https://user-images.githubusercontent.com/75610421/193264744-97b6770c-5a4c-469b-b5d7-dfa51916f3df.png)
+![image](https://user-images.githubusercontent.com/75610421/193264854-11be8803-8ef9-4f55-9735-3ef66a7316b3.png)
+
+配置完成如下图
 
 ![image](https://user-images.githubusercontent.com/75610421/193262715-5159274e-a707-4d66-84f6-d5d99fa26d6d.png)
 
